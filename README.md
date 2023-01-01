@@ -1,2 +1,2 @@
 # vanilla-js-menu
-Implementation of Quote layout in https://www.vanillajavascriptprojects.com/
+Implementation of Menu layout in https://www.vanillajavascriptprojects.com/
